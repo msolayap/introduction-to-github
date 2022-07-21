@@ -1,0 +1,6 @@
+##Images Metadata
+This file contains meta data about some of the images and their significance. Some images are used across the website, so careful when you changing them.
+
+. HomeLogo - Logo for the website.
+. ContactUs - Used in all the web pages.
+. footer-bar - Footer ribbon image.

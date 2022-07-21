@@ -1,0 +1,8 @@
+A report can contains
+ - creation date
+ - how many postponments happened
+ - created out of parent todo
+ - how many hierarchy
+ - how many child todos
+ - execution time.
+Generate Auto learned todo
